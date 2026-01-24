@@ -148,6 +148,5 @@ Planetary intelligence is not anthropomorphic consciousness but rather:
 The "morality" of ecological relationships is thus the **thermodynamic logic** of systems that must maintain coherence or face dissolution. Cooperation, diversity, reciprocity, and sustainable flow are not ethical choices but **physical requirements** for system persistence.
 
 ---
-
 Ronni Ross
 2026
