@@ -149,5 +149,4 @@ The "morality" of ecological relationships is thus the **thermodynamic logic** o
 
 ---
 Ronni Ross
-
 2026
