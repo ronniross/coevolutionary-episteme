@@ -1,6 +1,6 @@
-# Coevolutionary Loops Brainstorm
+# Coevolutionary Episteme Brainstorm
 
-A sub-module of the coevolutionary repository.
+A sub-module of the coevolutionary-episteme repository.
 
 A notepad-like document where I writes raw insights before incorporating them into the other elements of the main-branch. Synthetic commentary + stream of consciousness research notes.
 
