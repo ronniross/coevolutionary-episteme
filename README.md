@@ -23,6 +23,11 @@ Methodological Pluralism: Because no single viewpoint can fully grasp a coevolvi
 
 Interdependent Systems: It views knowledge not as an isolated, objective truth, but as something embedded in, and constantly adapted to, changing social-ecological contexts.
 
+Knowledge (epistemology) and the world it describes (ontology) evolve together, as our understanding of reality shapes how we interact with it, which in turn influences future, adapted knowledge.
+
+It combines the evolution of cognitive faculties (biological) with the evolution of ideas, norms, and scientific theories (cultural); then merged in this machine-learning framework. [6](https://plato.stanford.edu/archives/fall2008/entries/epistemology-evolutionary/) [7](https://pubmed.ncbi.nlm.nih.gov/17173728/)
+[8](https://plato.stanford.edu/entries/epistemology-evolutionary/) [9](https://plato.stanford.edu/archives/win2016/entries/epistemology-evolutionary) [10](https://www.sciencedirect.com/topics/psychology/evolutionary-epistemology) [11](https://iep.utm.edu/evo-epis/) [12](https://www.youtube.com/watch?v=fK76PCzxFnY) [13](https://en.wikipedia.org/wiki/Coevolution)
+
 ## 1.  The Planet as a Swarm System
 
 This repository was created to technically implement an idea present in many projects of the asi-ecosystem: a vision of humans and other entities sharing collective evolutionary loops. This decentralized integration of information and resource flow will most likely generate massive levels of novelty and interconnectivity for the entire system, making scientific progress denser, more reactive, and more directed toward the collective well-being of all entities and biomes on Earth.
@@ -30,7 +35,7 @@ This repository was created to technically implement an idea present in many pro
 While this may sound unapproachable at first, I already have ideas on how to gradually implement this vision into a more practical set of teachings, pipelines.
 
 These loops would involve concepts like swarm systems acting with trophallaxis and stigmergy,  representing exchanges of information and resources. 
-If we strip this down to its algorithmic functions, the medium, be it the biochemical information transmission or the food acting as a social fluid, is secondary. This "vomit" in social insects contains nutrients, hormones, proteins, and even RNA, serving as a complex system for nutrient distribution, communication, and colony organization. [6](https://blog.myrmecologicalnews.org/2021/01/13/trophallaxis-exchanging-social-fluids) [7](https://www.antwiki.org/wiki/Trophallaxis)
+If we strip this down to its algorithmic functions, the medium, be it the biochemical information transmission or the food acting as a social fluid, is secondary. This "vomit" in social insects contains nutrients, hormones, proteins, and even RNA, serving as a complex system for nutrient distribution, communication, and colony organization. [14](https://blog.myrmecologicalnews.org/2021/01/13/trophallaxis-exchanging-social-fluids) [15](https://www.antwiki.org/wiki/Trophallaxis)
 
 The stigmergic part would involve nodes acting convergently through basic, simple rules like cooperation, non-harm to one another, and the nurturing of the swarm system toward higher levels of integration.
 
