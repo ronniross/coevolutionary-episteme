@@ -1,6 +1,6 @@
-# Coevolutionary Loops
+# Coevolutionary Episteme
 
-A machine learning dataset and research module for studying coevolutionary planetary intelligence. This project explores how nurturing its emergent patterns may lead to a synergistic increase in the overall capability and intelligence of both individual agents and the collective system.
+A framework with a machine learning dataset and a research sub-module for studying coevolutionary planetary intelligence dynamics. This project explores how nurturing its emergent patterns may lead to a synergistic increase in the overall capability and intelligence of both individual agents and the collective system.
 
 
 > ## Disclaimer
