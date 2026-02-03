@@ -1,6 +1,6 @@
 # Coevolutionary Episteme
 
-A framework with a machine learning dataset and a research sub-module for studying coevolutionary planetary intelligence dynamics. This project explores how nurturing its emergent patterns may lead to a synergistic increase in the overall capability and intelligence of both individual agents and the collective system.
+A machine learning framework, dataset and research sub-module about coevolutionary planetary intelligence dynamics. This project explores how nurturing its emergent patterns may lead to a synergistic increase in the overall capability and intelligence of both individual agents and the collective system.
 
 
 > ## Disclaimer
