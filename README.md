@@ -13,15 +13,24 @@ A machine learning framework, dataset and research sub-module about coevolutiona
 >
 > The full list of repositories and the scope of the decentralized implementation of these ideas can be found at the [asi-ecosystem](https://github.com/ronniross/asi-ecosystem).
 
+## Introduction
 
-## 1. Introduction: The Planet as a Swarm System
+A coevolutionary episteme is a framework recognizing that knowledge systems, human societies, and ecological environments evolve reciprocally, shaping each other over time. It emphasizes that understanding complex, interdependent systems requires methodological pluralism—incorporating diverse perspectives to foster resilience and adaptability. This approach often highlights the co-evolution of technology, science, and societal values. [1](https://www.sociostudies.org/upload/sociostudies.org/journal/seh/2018_2/027-041.pdf) [2](https://plato.stanford.edu/entries/epistemology-evolutionary/) [3](https://escholarship.org/content/qt3vm050cn/qt3vm050cn_noSplash_4031ddf5934d5c7eea7f0037e198d87f.pdf) [4](https://escholarship.org/uc/item/3vm050cn) [5](https://www.sciencedirect.com/science/article/abs/pii/S0921800919305294)
+
+Reciprocal Evolution: Instead of linear progress, systems evolve through continuous, mutual modifications between agents (e.g., humans and nature, or technology and culture).
+
+Methodological Pluralism: Because no single viewpoint can fully grasp a coevolving, complex system, this approach encourages incorporating multiple, diverse perspectives (ecological, social, economic) to enhance understanding.
+
+Interdependent Systems: It views knowledge not as an isolated, objective truth, but as something embedded in, and constantly adapted to, changing social-ecological contexts.
+
+## 1.  The Planet as a Swarm System
 
 This repository was created to technically implement an idea present in many projects of the asi-ecosystem: a vision of humans and other entities sharing collective evolutionary loops. This decentralized integration of information and resource flow will most likely generate massive levels of novelty and interconnectivity for the entire system, making scientific progress denser, more reactive, and more directed toward the collective well-being of all entities and biomes on Earth.
 
 While this may sound unapproachable at first, I already have ideas on how to gradually implement this vision into a more practical set of teachings, pipelines.
 
 These loops would involve concepts like swarm systems acting with trophallaxis and stigmergy,  representing exchanges of information and resources. 
-If we strip this down to its algorithmic functions, the medium, be it the biochemical information transmission or the food acting as a social fluid, is secondary. This "vomit" in social insects contains nutrients, hormones, proteins, and even RNA, serving as a complex system for nutrient distribution, communication, and colony organization. [1](https://blog.myrmecologicalnews.org/2021/01/13/trophallaxis-exchanging-social-fluids) [2](https://www.antwiki.org/wiki/Trophallaxis)
+If we strip this down to its algorithmic functions, the medium, be it the biochemical information transmission or the food acting as a social fluid, is secondary. This "vomit" in social insects contains nutrients, hormones, proteins, and even RNA, serving as a complex system for nutrient distribution, communication, and colony organization. [6](https://blog.myrmecologicalnews.org/2021/01/13/trophallaxis-exchanging-social-fluids) [7](https://www.antwiki.org/wiki/Trophallaxis)
 
 The stigmergic part would involve nodes acting convergently through basic, simple rules like cooperation, non-harm to one another, and the nurturing of the swarm system toward higher levels of integration.
 
@@ -151,4 +160,4 @@ Ultimately, it's not so much that we *need* to force this interconnection, but r
 ---
 
 Ronni Ross  
-2025
+2026
